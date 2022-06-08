@@ -1,6 +1,6 @@
 # Developing-a-Neural-Network-for-solving-a-Regression-problem
 
-Write a python program to create and test a neural network for solving a regression problem. 
+Program is to create and test a neural network for solving a regression problem. 
 In your development process, you need to test multiple hyperparameter to obtain the most appropriate network for your problem. 
 The hyperparameters you’ll have to analyse are listed below:
 1. Learning Rate
